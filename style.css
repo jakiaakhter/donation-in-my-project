@@ -1,0 +1,77 @@
+img{
+    height: 70%;
+    width: 100%;
+    opacity: 8;
+
+}
+body{
+     font-family: 'Poppins', sans-serif;;
+}
+.container{
+    position: relative;
+}
+.flood-attack{
+    position: absolute;
+    color: white;
+    top: 20px;
+    right: 20px;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.link-button{
+    text-decoration: none;
+    padding: 12px 35px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700px;
+    background-image: linear-gradient(red,orange);
+}
+.button{
+    margin-top: 60px;
+}
+.donation-plan{
+    text-align: center;
+}
+.flexible-container{
+    display: flex;
+    gap:8px 8px;
+    width:100%;
+    border: 10px;
+}
+.box {
+    box-shadow: 10px 10px 40px grey;
+}
+.box img {
+    height: 35px;
+    width: 35px;
+}
+.icon img{
+    width:10%
+}
+.family{
+    text-align: center; 
+}
+.flexible-container img{
+    width:35px;
+}
+.donate-today{
+    
+    text-align: center;
+}
+.link{
+    margin-top: 30px;
+}
+.update{
+    text-align: center;
+    margin-top: 60px;
+}
+.today{
+    margin-top:160px;
+}
+footer{
+    background-color: black;
+    color: white;
+    width: 100%;
+    text-align: center;
+}
